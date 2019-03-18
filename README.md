@@ -1,0 +1,2 @@
+# qrreader
+qrReader
